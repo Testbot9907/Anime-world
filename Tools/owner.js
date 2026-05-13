@@ -35,7 +35,7 @@ module.exports = async function (req, res) {
             <body>
                 <div class="water-bg"><div class="wave"></div></div>
                 <div class="main-container">
-                    <img src="https://raw.githubusercontent.com/kingnoks12-eng/Anime-world/main/my.jpg" alt="Mr.King" class="owner-pic">
+                    <img src="https://raw.githubusercontent.com/Testbot9907/Anime-world/blob/main/my.jpg" alt="Mr.King" class="owner-pic">
                     
                     <div class="info-box">
                         <h2>𝐎𝐖𝐍𝐄𝐑 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 ⚔️</h2>
